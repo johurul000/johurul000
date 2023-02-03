@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @johurul000
-- 👀 I’m interested in android developement and Kubernetes.
-- 🌱 I’m currently learning Kubernetes
+- 👀 I’m interested in Learning Devops.
 - 📫 How to reach me - my E-mail - johurulhassan000@gmail.com and my Twitter username is - @Johurul000
 
 <!---
