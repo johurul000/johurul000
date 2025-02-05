@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @johurul000
-- 👀 I’m interested in Learning Devops.
+- 👀 I am a fullstack developer.
+  
 
 <!---
 johurul000/johurul000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
