@@ -23,12 +23,39 @@ Welcome to my GitHub! I'm a **full-stack developer** passionate about building i
 
 ---
 
-## 🌟 Featured Projects  
+## 📌 Featured Projects
 
-💊 **[NyptRx](https://github.com/your-nyptRx-repo)** – Pharmacy management system with inventory tracking & analytics.  
-💬 **[LumeChat](https://github.com/your-lumechat-repo)** – Real-time chat app with WebSockets & authentication.  
-🛒 **[Ecom-Craft](https://github.com/your-ecom-craft-repo)** – A modern eCommerce platform built with Django.  
+### 🏥 NyptyRx (Pharmacy Billing & Invoicing)
+- **Live:** [NyptyRx App](https://nyptyrx.vercel.app/demo-login/)  
+- **Backend:** [GitHub Repo](https://github.com/johurul000/nyptyrx-backend)  
+- **Frontend:** [GitHub Repo](https://github.com/johurul000/nyptyrx-frontend)  
 
+### 🛒 Ecom-Craft (E-commerce App)
+- **Live:** [Ecom-Craft](https://johurul123.pythonanywhere.com/demo-login)  
+- **Code:** [GitHub Repo](https://github.com/johurul000/ecom-craft-deploy)  
+
+### ✅ Advanced To-Do Application (Task Management Tool)
+- **Live:** [To-Do App](https://to-do-vercel-rust.vercel.app/special/)  
+- **Code:** [GitHub Repo](https://github.com/johurul000/to-do-vercel)  
+
+### 🔐 Vault Guard (Password Manager)
+- **Code:** [GitHub Repo](https://github.com/johurul000/vault_guard)  
+- Secure password manager with encryption and retrieval features.
+- **Tech Stack:** Django, JavaScript, CSS
+
+### 📝 Basic To-Do App (Simple Task Manager)
+- **Code:** [GitHub Repo](https://github.com/johurul000/Basic-To-Do-App)  
+
+### 🍽️ Food Map
+- **Overview:** Search for dishes across restaurants with auto-suggestions and image fetching via Unsplash API.
+- **Code:** [GitHub Repo](https://github.com/johurul000/food-map)  
+
+### 🖼️ Spitfire (Image Processing Project)
+- **Features:** Sketch, resizing, and greyscale conversion.
+- **Code:** [GitHub Repo](https://github.com/johurul000/spitfire)  
+
+### ⚡ Golang Projects (Various Applications)
+- **Code:** [GitHub Repo](https://github.com/johurul000/golang-projects/) 
 ---
 
 ## 🎯 My Development Philosophy  
