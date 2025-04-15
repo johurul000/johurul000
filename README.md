@@ -58,13 +58,6 @@ Welcome to my GitHub! I'm a **full-stack developer** passionate about building i
 - **Code:** [GitHub Repo](https://github.com/johurul000/golang-projects/) 
 ---
 
-## 🎯 My Development Philosophy  
-
-🔹 **Build with purpose** – Every feature should solve a problem.  
-🔹 **Keep it simple** – Clean code > Complex solutions.  
-🔹 **Learn and evolve** – The best developers never stop improving.  
-
----
 
 ## 📫 Get in Touch  
 
