@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a **full-stack developer** passionate about building i
 ### 🛠 **Other Tools**  
 🔹 **Version Control:** Git, GitHub  
 🔹 **Deployment:** Docker, PythonAnywhere  
-🔹 **Messaging & Real-time:** Django Channels  
+🔹 **Messaging & Real-time:** Django Channels, celery, Kafka
 
 ---
 
