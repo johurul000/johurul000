@@ -25,6 +25,11 @@ Welcome to my GitHub! I'm a **full-stack developer** passionate about building i
 
 ## 📌 Featured Projects
 
+### 🏥 TrustPoints (Task Completion and rewards app)
+- **Live:** [TrustPoints App](https://trustpoints.vercel.app/)  
+- **Backend:** [GitHub Repo](https://github.com/johurul000/trustpoints_backend)
+- **Frontend:** [GitHub Repo](https://github.com/johurul000/trustpoints_frontend)
+
 ### 🏥 NyptyRx (Pharmacy Billing & Invoicing)
 - **Live:** [NyptyRx App](https://nyptyrx.vercel.app/demo-login/)  
 - **Backend:** [GitHub Repo](https://github.com/johurul000/nyptyrx-backend)  
