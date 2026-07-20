@@ -110,11 +110,12 @@ AI Tooling     Claude Code · Cursor · GPT-4 — across my entire dev workflow
 
 <div align="center">
 
-![Johurul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johurul000&show_icons=true&theme=dark&hide_border=true&count_private=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=johurul000&theme=github_dark" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=johurul000&theme=github_dark" height="180" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johurul000&layout=compact&theme=dark&hide_border=true&langs_count=8)
+<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=johurul000&theme=dark&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=johurul000&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180" />
 
 </div>
 
